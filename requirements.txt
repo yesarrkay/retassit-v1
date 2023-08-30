@@ -1,0 +1,8 @@
+langchain
+openai
+unstructured
+python-dotenv
+tiktoken
+streamlit
+streamlit-extras
+plost

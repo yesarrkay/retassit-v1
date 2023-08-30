@@ -1,0 +1,7 @@
+Customer Cluster,Customer Count,Description of Cluster,Marketing Campaign,Channel,Campaign Description
+Cluster A,135,"High Credit Limit, Low Utilization",Email Marketing,Email,Discount on selected items
+Cluster B,300,"Moderate Credit Limit, Moderate Utilization",Social Media,Contact Center Voice,New product launch
+Cluster C,336,"High Credit Limit, Low Utilization",Pay-per-click,Email,Loyalty program offer
+Cluster D,135,"Moderate Credit Limit, Moderate Utilization",Contact Center Outreach,Contact Center Voice,BOGO offer
+Cluster E,341,"High Credit Limit, Low Utilization",Email Marketing,Email,Celebrity endorsement
+Cluster F,151,"Moderate Credit Limit, Moderate Utilization",Social Media,Contact Center Voice,Loyalty points on purchase
